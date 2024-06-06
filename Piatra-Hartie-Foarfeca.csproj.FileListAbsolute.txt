@@ -1,0 +1,21 @@
+C:\Users\sandu\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\bin\Release\Piatra-Hartie-Foarfeca.exe.config
+C:\Users\sandu\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\bin\Release\Piatra-Hartie-Foarfeca.exe
+C:\Users\sandu\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\bin\Release\Piatra-Hartie-Foarfeca.pdb
+C:\Users\sandu\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.csproj.AssemblyReference.cache
+C:\Users\sandu\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra_Hartie_Foarfeca.Form1.resources
+C:\Users\sandu\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra_Hartie_Foarfeca.Properties.Resources.resources
+C:\Users\sandu\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.csproj.GenerateResource.cache
+C:\Users\sandu\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.csproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.exe
+C:\Users\sandu\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.pdb
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\bin\Release\Piatra-Hartie-Foarfeca.exe.config
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\bin\Release\Piatra-Hartie-Foarfeca.exe
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\bin\Release\Piatra-Hartie-Foarfeca.pdb
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.csproj.AssemblyReference.cache
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra_Hartie_Foarfeca.Form1.resources
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra_Hartie_Foarfeca.Properties.Resources.resources
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.csproj.GenerateResource.cache
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.csproj.CoreCompileInputs.cache
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.exe
+C:\Users\Loki The Trickster\source\repos\Piatra-Hartie-Foarfeca\Piatra-Hartie-Foarfeca\obj\Release\Piatra-Hartie-Foarfeca.pdb
